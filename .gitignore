@@ -1,0 +1,14 @@
+.build/
+.swiftpm/
+.cache/
+dist/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+*.log
+*.gguf
+*.safetensors
+*.mlmodelc/
+local-data/
